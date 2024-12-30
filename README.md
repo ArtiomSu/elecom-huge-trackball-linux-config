@@ -38,6 +38,4 @@ Or a better way is to put it in your desktop environment or window manager confi
 I use i3 window manager so I put this in my i3 config `exec_always --no-startup-id ~/scrips/Elecom_Huge_Setup.sh`
 
 # Video
-Todo put proper link that doesn't exist yet
-
 [![Youtube](https://img.youtube.com/vi/_9O10F5uLnY/0.jpg)](https://www.youtube.com/watch?v=_9O10F5uLnY)

@@ -40,4 +40,4 @@ I use i3 window manager so I put this in my i3 config `exec_always --no-startup-
 # Video
 Todo put proper link that doesn't exist yet
 
-[![Youtube](https://img.youtube.com/vi/hIAJ9Icq3KU/0.jpg)](https://www.youtube.com/watch?v=hIAJ9Icq3KU)
+[![Youtube](https://img.youtube.com/vi/_9O10F5uLnY/0.jpg)](https://www.youtube.com/watch?v=_9O10F5uLnY)
